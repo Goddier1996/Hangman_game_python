@@ -1,5 +1,5 @@
 # Hangman game - python
-in this app you input your name and start the game, if you wont see all date players you can to see(all date information save in file and can read him).
+in this app you input your name and start the game, if you wont see all date players you can to see(all date information save in file and can read him)
 
 
 menu page :
