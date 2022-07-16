@@ -2,7 +2,7 @@
 in this app you input your name and start the game, if you wont see all date players you can to see(all date information save in file and can read him)
 
 
-video :
+video project :
 
 https://user-images.githubusercontent.com/59862302/179348682-a670c774-9fca-4a6b-9d7a-469b867348bf.mp4
 
